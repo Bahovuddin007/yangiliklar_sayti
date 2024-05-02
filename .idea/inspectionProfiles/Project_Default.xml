@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="handlers.users.start.*" />
+          <option value="loader.bot.set_chat_description" />
+          <option value="email.message.chat" />
+          <option value="loader.dp.message_handler" />
+          <option value="loader.bot.set_chat_title" />
+          <option value="filters.AdminFilter" />
+          <option value="utils.phoyograph.loarder" />
+          <option value="utils.photo_link" />
+          <option value="keyboards.inline.product_keys" />
+          <option value="handlers.users.create_order.from_user" />
+          <option value="handlers.users.create_order.*" />
+          <option value="oop004.model" />
+          <option value="oop004.*" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="RestRoleInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnusedDefine" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
